@@ -136,7 +136,7 @@ The content of this website is © Mathias Oster. The MkDocs configuration and st
 ## Contact
 
 For questions or issues with this website, please contact:
-- Email: mathias.oster@rwth-aachen.de
+- Email: oster@igpm.rwth-aachen.de
 - GitHub Issues: [Report an issue](https://github.com/yourusername/website_mathias/issues)
 
 ---

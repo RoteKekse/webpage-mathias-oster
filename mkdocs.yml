@@ -1,0 +1,57 @@
+site_name: Mathias Oster
+site_description: Academic Website of Mathias Oster, Junior Professor at RWTH Aachen
+site_author: Mathias Oster
+site_url: https://yourusername.github.io/website_mathias
+
+theme:
+  name: material
+  palette:
+    # Eggshell/Rose color scheme
+    primary: custom
+    accent: custom
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - About: index.md
+  - Publications: publications.md
+  - CV & Education: cv.md
+  - Research Cooperations: cooperations.md
+  - Contact: contact.md
+  - Impressum: impressum.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - footnotes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourusername
+    - icon: fontawesome/solid/envelope
+      link: mailto:mathias.oster@rwth-aachen.de

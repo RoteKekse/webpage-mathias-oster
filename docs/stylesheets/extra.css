@@ -1,0 +1,62 @@
+/* Eggshell and Rose color palette */
+:root {
+  --md-primary-fg-color: #F5E6D3; /* Eggshell */
+  --md-primary-fg-color--light: #FAF0E6;
+  --md-primary-fg-color--dark: #E8D4B8;
+  --md-primary-bg-color: #2C2C2C;
+  --md-accent-fg-color: #C57B7B; /* Rose */
+  --md-accent-fg-color--transparent: rgba(197, 123, 123, 0.1);
+  --md-accent-bg-color: #2C2C2C;
+}
+
+/* Primary color overrides */
+[data-md-color-primary=custom] {
+  --md-primary-fg-color: #C57B7B;
+  --md-primary-fg-color--light: #D89999;
+  --md-primary-fg-color--dark: #A65C5C;
+  --md-primary-bg-color: #FAF0E6;
+  --md-typeset-a-color: #A65C5C;
+}
+
+/* Accent color overrides */
+[data-md-color-accent=custom] {
+  --md-accent-fg-color: #C57B7B;
+  --md-accent-fg-color--transparent: rgba(197, 123, 123, 0.1);
+}
+
+/* Additional styling for a warmer look */
+.md-header {
+  background-color: #C57B7B;
+}
+
+.md-tabs {
+  background-color: #D89999;
+}
+
+.md-nav__link--active {
+  color: #A65C5C !important;
+}
+
+.md-footer {
+  background-color: #C57B7B;
+}
+
+/* Adjust link colors */
+a {
+  color: #A65C5C;
+}
+
+a:hover {
+  color: #8B4545;
+}
+
+/* Button styling */
+.md-button--primary {
+  background-color: #C57B7B;
+  border-color: #C57B7B;
+}
+
+.md-button--primary:hover {
+  background-color: #A65C5C;
+  border-color: #A65C5C;
+}
