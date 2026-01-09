@@ -4,9 +4,9 @@
 
 **Junior Professor of Mathematics**  
 RWTH Aachen University  
-*[Start Date] - Present*
+*May 2025 - Present*
 
-Leading research group focused on [research areas] and teaching advanced mathematics courses to undergraduate and graduate students.
+Leading research group focused on Data-driven Methods for Non-lonear PDEs and teaching advanced mathematics courses to undergraduate and graduate students.
 
 ---
 
@@ -15,31 +15,11 @@ Leading research group focused on [research areas] and teaching advanced mathema
 ### Doctoral Degree
 
 **Dr. rer. nat. (PhD) in Mathematics**  
-*[University Name]*  
-[Year - Year]
+*Technical University Berlin*  
+[2018 - 2023]
 
-- **Thesis**: *[Thesis Title]*
-- **Advisor**: Prof. [Advisor Name]
-- **Grade**: *summa cum laude* / *magna cum laude*
-
-### Master's Degree
-
-**Master of Science (M.Sc.) in Mathematics**  
-*[University Name]*  
-[Year - Year]
-
-- **Specialization**: [Area of Specialization]
-- **Thesis**: *[Thesis Title]*
-- **Grade**: [Grade/GPA]
-
-### Bachelor's Degree
-
-**Bachelor of Science (B.Sc.) in Mathematics**  
-*[University Name]*  
-[Year - Year]
-
-- **Grade**: [Grade/GPA]
-- **Minor**: [Minor Subject, if applicable]
+- **Thesis**: *On semi-global optimal control problems and their applications in machine learning*
+- **Advisor**: Prof. Reinhold Schneider
 
 ---
 
@@ -47,10 +27,10 @@ Leading research group focused on [research areas] and teaching advanced mathema
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| [Year] - Present | Junior Professor | RWTH Aachen University |
-| [Year] - [Year] | Postdoctoral Researcher | [Institution] |
-| [Year] - [Year] | Research Assistant | [Institution] |
-| [Year] - [Year] | Teaching Assistant | [Institution] |
+| 2025 - Present | Junior Professor | RWTH Aachen University |
+| 2023 - 2025| Postdoctoral Researcher | TU Berlin |
+| 2018 - 2023 | Research Assistant | TU Berlin |
+| 2014 - 2018 | Teaching Assistant | TU Berlin |
 
 ---
 
